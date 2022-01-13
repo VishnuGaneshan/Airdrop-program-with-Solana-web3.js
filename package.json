@@ -1,0 +1,15 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "description": "Airdrop program with Solana web3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vishnu G",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
